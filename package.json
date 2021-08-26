@@ -1,0 +1,29 @@
+{
+  "name": "expresswebserver",
+  "version": "1.0.0",
+  "description": "simple web server with express and nodemailer",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "constantinople": "^4.0.1",
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "jstransformer": "^1.0.0",
+    "nodemailer": "^6.6.3",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midxdle/secondrepo.git"
+  },
+  "author": "midxdle <sina.heydarian.sh@gmail.com> (https://github.com/midxdle/fourthrepo.git)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/midxdle/secondrepo/issues"
+  },
+  "homepage": "https://github.com/midxdle/secondrepo#readme"
+}
